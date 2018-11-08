@@ -27,10 +27,10 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 
 | Date(s)  | Travail à rendre | Objectif | Poids |
 | :---:   | :---   | :---    | :---: |
-| 16.01 :arrow_forward: 10.02 | TP1 |  Conception guidée, en lien avec l'implémentation | 10% |
+| 16.01 ➔ 10.02 | TP1 |  Conception guidée, en lien avec l'implémentation | 10% |
 | 20.02 | :notebook: **Examen intra** | Principes fondamentaux de la conception | 20% |
-| 21.02 :arrow_forward: 31.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
-| 01.04 :arrow_forward: 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
+| 21.02 ➔ 31.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
+| 01.04 ➔ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
 | 24.04 | :notebook: **Examen final** | Principes fondamentaux & avancés de la conception | 40% |
 
 </center>
@@ -49,15 +49,15 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 <center>
 
 | #Semaine | Cours (Mercredi) | Ateliers (Jeudi) |
-| :---:   | :---   | :---    | :---: |
+| :---:   | :---   | :---    |
 | #2      |  Introduction: Socle Technique & Principes de Conception Objet |  (A1) Boite à outils technique |
 | #3      |  Rappels sur UML, Propriétés architecturales | (A1) _suite_ |
 | #4      |  Responsabilisation : GRASP & SOLID | (A1) _suite_ |
 | #5      |  UML pour la conception détaillée | (A2) Conception & Implémentation |
 | #6      |  (A2) _suite_ | (A2) _suite_   | 
 | #7      |  Retours sur le TP1, Révisions|  Patrons de conceptions GoF (_initié_) |
-| **#8**  | **Examen intra**   |  _--_  |
-| _#9_    | _Semaine de relâche_   |  _--_  |
+| **#8**  | **Examen intra**   |   |
+| _#9_    | _Semaine de relâche_   |   |
 | #10     |  Patrons de conceptions GoF (_padawan_) | (A3) Patrons, Modèles et Mise en oeuvre  |
 | #11     |  Patrons de conceptions GoF (_chevalier_) | (A3) _suite_ |
 | #12     |  Patrons de conceptions GoF (_maitre_) |  (A3) _suite_  |
@@ -65,7 +65,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #14     |  Maintenance et réusinage (_refactoring_) | (A4) _suite_  |
 | #15     |  Principes du _Domain-Driven Design_  | (A5) Application du DDD au TP1  | 
 | #16     |  _(culture)_ Architectures Hexagonales : Des objets aux services | (A5) _suite_  |
-| **#17** |  **Examen final** | _--_ |
+| **#17** |  **Examen final** |  |
 
 </center>
 
