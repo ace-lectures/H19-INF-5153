@@ -23,8 +23,6 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 
 ### Évaluation & Planning de rendus
 
-<center>
-
 | Date(s)  | Travail à rendre | Objectif | Poids |
 | :---:   | :---   | :---    | :---: |
 | 16.01 ➝ 10.02 | TP1 |  Conception guidée, en lien avec l'implémentation | 10% |
@@ -33,7 +31,6 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 | 01.04 ➝ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
 | 24.04 | :notebook: **Examen final** | Principes fondamentaux & avancés de la conception | 40% |
 
-</center>
 
 Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Classroom. Les TPs sont a réaliser par équipe de 4 étudiants (maximum _xx_ équipes). Les dépôts de code seront clonés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué.  La couverture _fonctionelle_ de vos TPs est automatiquement vérifiée par la bonne exécution de scénarios _Cucumber_.
 
@@ -45,8 +42,6 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 
   - Semaine #6 : Déplacement pro (conférence). Le cours est remplacé par un atelier (_local & horaire à définir_).
   - Semaine #7 : L'atelier est remplacé par un cours pour rattraper la semaine 6 (_local & horaire à définir_)
-
-<center>
 
 | #Semaine | Cours (Mercredi, 3h) | Ateliers (Jeudi, 2h) |
 | :---:   | :---   | :---    |
@@ -67,7 +62,6 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #16     |  _(culture)_ Architectures Hexagonales | (A5) _suite_  |
 | **#17** |  **Examen final** |  |
 
-</center>
 
 ## Travaux
 
