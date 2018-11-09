@@ -77,7 +77,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
     * Objectifs : Maitriser l'outillage de base (GitHub classroom, travis-CI, maven, git, junit, visual paradigm & cucumber).
   * A2 : Le jeu de Poker
     * Objectifs : Concevoir et développer une application orientée objet.
-  * A3 : Prise de rendez-vous médicaux
+  * A3 : Simulateur de _Bestioles_
     * Objectifs : Intégrer des patrons de conception dans une application orientée objet.
   * A4 : Patternator
     * Objectif : Initiation à la rétro-ingénierie des applications objets.
