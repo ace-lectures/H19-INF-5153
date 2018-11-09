@@ -58,13 +58,13 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #7      |  Retours sur le TP1, Révisions|  Patrons de conceptions GoF (_initié_) |
 | **#8**  | **Examen intra**   |   |
 | _#9_    | _Semaine de relâche_   |   |
-| #10     |  Patrons de conceptions GoF (_padawan_) | (A3) Patrons, Modèles et Mise en oeuvre  |
+| #10     |  Patrons de conceptions GoF (_padawan_) | (A3) Patrons & Mise en oeuvre  |
 | #11     |  Patrons de conceptions GoF (_chevalier_) | (A3) _suite_ |
 | #12     |  Patrons de conceptions GoF (_maitre_) |  (A3) _suite_  |
 | #13     |  Anti-patrons | (A4) Détection d' (anti-)patrons  |
 | #14     |  Maintenance et réusinage (_refactoring_) | (A4) _suite_  |
 | #15     |  Principes du _Domain-Driven Design_  | (A5) Application du DDD au TP1  | 
-| #16     |  _(culture)_ Architectures Hexagonales : Des objets aux services | (A5) _suite_  |
+| #16     |  _(culture)_ Architectures Hexagonales | (A5) _suite_  |
 | **#17** |  **Examen final** |  |
 
 </center>
