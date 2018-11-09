@@ -48,7 +48,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 
 <center>
 
-| #Semaine | Cours (Mercredi) | Ateliers (Jeudi) |
+| #Semaine | Cours (Mercredi, 3h) | Ateliers (Jeudi, 2h) |
 | :---:   | :---   | :---    |
 | #2      |  Introduction: Socle Technique & Principes de Conception Objet |  (A1) Boite à outils technique |
 | #3      |  Rappels sur UML, Propriétés architecturales | (A1) _suite_ |
