@@ -79,7 +79,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 
 ### Travaux pratiques (à rendre)
 
-Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
+Les travaux pratiques sont a faire en équipe de 3 à 4 étudiants. Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
 travaux pratiques avant les livraisons finales. 
 
   * TP1 : Bibliothèque Universitaire (3,5 semaines)
@@ -88,7 +88,7 @@ travaux pratiques avant les livraisons finales.
     * Version finale : _Produit Complet_  (4,5 semaines)
 
 _Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
-Travaux Pratiques à rendre si vous êtes en emploi et ne pouvez pas venir sur le créneau sans rendez-vous précédant le cours._
+Travaux Pratiques à rendre **si vous êtes en situation d'emploi et ne pouvez pas venir sur le créneau sans rendez-vous précédant le cours**._
 
 ## Bibliographie
 
