@@ -6,11 +6,12 @@
     * Professeur : [Sébastien Mosser](https://mosser.github.io)
     * Démonstrateur : _à définir_  
   * Horaire du groupe `030`, session d'hiver 2019:
-    * Cours : Mercredi, 18h - 21h, _local à définir_
-    * Atelier : Jeudi, 18h - 20h, local PK-S1540.
+    * Cours : Mercredi, 18h - 21h, local PK-R605
+    * Atelier : Jeudi, 18h - 20h, local PK-S1540 (mais va surement bouger en S1555)
   * Communication : 
     * Disponibilité sans rendez-vous : Mercredi, 15h45 - 17h45.
-    * Slack : _a définir_ (**politique zéro courriel stricte**)
+    * Slack : [https://inf5153-h19.slack.com/signup](https://inf5153-h19.slack.com/signup) 
+      * (**politique zéro courriel stricte**)
 
 ### Description du cours 
 
@@ -58,8 +59,8 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #12     |  Patrons de conceptions GoF (_maitre_) |  (A3) _suite_  |
 | #13     |  Anti-patrons | (A4) Détection d' (anti-)patrons  |
 | #14     |  Maintenance et réusinage (_refactoring_) | (A4) _suite_  |
-| #15     |  Principes du _Domain-Driven Design_  | (A5) Application du DDD au TP1  | 
-| #16     |  _(culture)_ Architectures Hexagonales | (A5) _suite_  |
+| #15     |  Principes du _Domain-Driven Design_  |  Finalisation TP  | 
+| #16     |  _(culture)_ Architectures Hexagonales |  Finalisation TP  |
 | **#17** |  **Examen final** |  |
 
 
@@ -73,19 +74,21 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
     * Objectifs : Concevoir et développer une application orientée objet.
   * A3 : Simulateur de _Bestioles_
     * Objectifs : Intégrer des patrons de conception dans une application orientée objet.
-  * A4 : Patternator
+  * A4 : Détéction et réparation d'anti-patrons
     * Objectif : Initiation à la rétro-ingénierie des applications objets.
-  * A5 : Bibliothèque Universitaire orientée service
-    * Objectifs : Découvrir les principes du _domain-driven design_ (DDD).
 
 ### Travaux pratiques (à rendre)
 
-Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos travaux pratiques avant les livraisons finales.
+Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
+travaux pratiques avant les livraisons finales. 
 
   * TP1 : Bibliothèque Universitaire (3,5 semaines)
   * TP2 : La Fabrique de Biscuits 
     * Version intermédiaire : _Produit Minimal & Viable_ (5,5 semaines)
     * Version finale : _Produit Complet_  (4,5 semaines)
+
+_Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
+Travaux Pratiques à rendre._
 
 ## Bibliographie
 
