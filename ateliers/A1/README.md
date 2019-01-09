@@ -2,7 +2,7 @@
 
   * Auteur : [Sébastien Mosser](mosser@i3s.unice.fr)
   * Version : 2019.1
-  * Durée : 4 heures
+  * Durée : 2 sessions de 2h
 
 ## Objectifs
 
