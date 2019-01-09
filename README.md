@@ -28,8 +28,8 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 | :---:   | :---   | :---    | :---: |
 | 16.01 ➝ 10.02 | TP1 |  Conception guidée, en lien avec l'implémentation | 10% |
 | 20.02 | :notebook: **Examen intra** | Principes fondamentaux de la conception | 20% |
-| 21.02 ➝ 31.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
-| 01.04 ➝ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
+| 21.02 ➝ 17.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
+| 18.03 ➝ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
 | 24.04 | :notebook: **Examen final** | Principes fondamentaux & avancés de la conception | 40% |
 
 
@@ -82,10 +82,10 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
 travaux pratiques avant les livraisons finales. 
 
-  * TP1 : Bibliothèque Universitaire (3,5 semaines)
+  * TP1 : Bibliothèque Universitaire 
   * TP2 : La Fabrique de Biscuits 
-    * Version intermédiaire : _Produit Minimal & Viable_ (5,5 semaines)
-    * Version finale : _Produit Complet_  (4,5 semaines)
+    * Version intermédiaire : _Produit Minimal & Viable_ 
+    * Version finale : _Produit Complet_  
 
 _Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
 Travaux Pratiques à rendre._
