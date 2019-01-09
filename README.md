@@ -9,7 +9,7 @@
     * Cours : Mercredi, 18h - 21h, local PK-R605
     * Atelier : Jeudi, 18h - 20h, local PK-S1540 (mais va surement bouger en S1555)
   * Communication : 
-    * Disponibilité sans rendez-vous : Mercredi, 15h45 - 17h45.
+    * Disponibilité sans rendez-vous : Mercredi, 15h45 - 17h45, local PK-4820
     * Slack : [https://inf5153-h19.slack.com/signup](https://inf5153-h19.slack.com/signup) 
       * (**politique zéro courriel stricte**)
 
@@ -33,7 +33,7 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 | 24.04 | :notebook: **Examen final** | Principes fondamentaux & avancés de la conception | 40% |
 
 
-Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Classroom. Les TPs sont a réaliser par équipe de 4 étudiants (maximum _xx_ équipes). Les dépôts de code seront clonés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué.  La couverture _fonctionelle_ de vos TPs est automatiquement vérifiée par la bonne exécution de scénarios _Cucumber_.
+Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Classroom. Les TPs sont a réaliser par équipe. Les dépôts de code seront clonés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué.  La couverture _fonctionelle_ de vos TPs est automatiquement vérifiée par la bonne exécution de scénarios _Cucumber_.
 
 L'examen _intra_ portera sur les séances des semaines #2 à #7. L'examen _final_ portera sur les séances des semaines #2 à #15. La séance de la semaine #16 est une ouverture pour votre culture générale. Pour les examens, vous avez le droit à une feuille de notes manuscrites (format _Letter_, recto-verso).
 
@@ -79,7 +79,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 
 ### Travaux pratiques (à rendre)
 
-Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
+Les travaux pratiques sont a faire en équipe de 3 à 4 étudiants. Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
 travaux pratiques avant les livraisons finales. 
 
   * TP1 : Bibliothèque Universitaire 
@@ -88,7 +88,7 @@ travaux pratiques avant les livraisons finales.
     * Version finale : _Produit Complet_  
 
 _Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
-Travaux Pratiques à rendre._
+Travaux Pratiques à rendre **si vous êtes en situation d'emploi et ne pouvez pas venir sur le créneau sans rendez-vous précédant le cours**._
 
 ## Bibliographie
 
