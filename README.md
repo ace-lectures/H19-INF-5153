@@ -9,7 +9,7 @@
     * Cours : Mercredi, 18h - 21h, local PK-R605
     * Atelier : Jeudi, 18h - 20h, local PK-S1540 (mais va surement bouger en S1555)
   * Communication : 
-    * Disponibilité sans rendez-vous : Mercredi, 15h45 - 17h45.
+    * Disponibilité sans rendez-vous : Mercredi, 15h45 - 17h45, local PK-4820
     * Slack : [https://inf5153-h19.slack.com/signup](https://inf5153-h19.slack.com/signup) 
       * (**politique zéro courriel stricte**)
 
