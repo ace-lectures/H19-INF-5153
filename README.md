@@ -88,7 +88,7 @@ travaux pratiques avant les livraisons finales.
     * Version finale : _Produit Complet_  (4,5 semaines)
 
 _Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
-Travaux Pratiques à rendre._
+Travaux Pratiques à rendre si vous êtes en emploi et ne pouvez pas venir sur le créneau sans rendez-vous précédant le cours._
 
 ## Bibliographie
 
