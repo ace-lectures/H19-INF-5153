@@ -68,7 +68,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 
 ### Ateliers (encadrés)
 
-  * A1 : Table interactive au restaurant
+  * A1 : Micro-brasserie interactive
     * Objectifs : Maitriser l'outillage de base (GitHub classroom, travis-CI, maven, git, junit, visual paradigm & cucumber).
   * A2 : Le jeu de Poker
     * Objectifs : Concevoir et développer une application orientée objet.
