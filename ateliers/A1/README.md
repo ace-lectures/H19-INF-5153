@@ -1,4 +1,4 @@
-# Table de Restaurant Interactive (A1)
+# Micro-brasserie Interactive (A1)
 
   * Auteur : [Sébastien Mosser](mosser@i3s.unice.fr)
   * Version : 2019.1
