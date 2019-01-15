@@ -31,10 +31,15 @@
 ### Évaluation (/100)
  
   * Rapport : 40 points 
-    * 
+    * Diagramme de cas d'utilisation : 		5 points
+    * Diagramme de classe : 					10 points
+    * Diagramme(s) de séquences : 				10 points
+    * Justification des choix de conception : 	15 points
+    * Identifications des limites de la conception : 10 points
   * Qualité du code objet : 30 points
-    * Respect des principes SOLID : 15 points
-    * Lisibilité du code Java : 15 points
+    * Respect des principes (i) _responsabilité unique_ et (ii) _ouvert/fermé_ : 15 points
+    * Lisibilité du code Java : 5 points
+    * Cohérence entre conception et code développé : 10 points
   * Scénarios d'acceptation : 30 points
     * Couverture fonctionnelle des spécifications : 20 points
     * Lisibilité des scénarios et des codes des étapes : 10 points 
@@ -43,7 +48,7 @@ Le rapport est rédigé en français. Un rapport de mauvaise qualité (sur la fo
 
 Votre participation sur le Git sera utilisée pour pondérer votre note en fonction de l'effort de développement mis dans le projet, avec un malus pouvant aller jusqu'à 100% de la note de groupe pour les cas extrêmes. Assurez vous de régler votre environnement pour que vos _commits_ soient reliés à votre véritable identité (voir atelier `A1` pour régler ce genre de détails).
  
- 
+
 ## Première itération : Produit minimal et viable
 
 On souhaite informatiser la bibliothèque universitaire de l'UQAM, et on fait l’hypothèse qu’il n’y a pas déjà de système existant. 
