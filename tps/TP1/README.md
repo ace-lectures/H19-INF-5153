@@ -66,8 +66,8 @@ On souhaite informatiser la bibliothèque universitaire de l'UQAM, et on fait l�
 
   1. Faire un premier diagramme de cas d’utilisation qui couvre les acteurs et les cas déterminés (ne cherchez pas à faire compliqué pour le moment).
   2. Prendre le cas d’utilisation que vous considérez le plus important et :
-    * Définir un diagramme de classes et un diagramme de séquences correspondant et cohérent.
-    * Développer le code (métier et tests d'acceptation) qui supportent cette conception.
+      * Définir un diagramme de classes et un diagramme de séquences correspondant et cohérent.
+      * Développer le code (métier et tests d'acceptation) qui supportent cette conception.
   3. Procéder cas par cas pour arriver au final à couvrir toutes les fonctionnalité 
 
 ## Seconde itération : Complexification métier
