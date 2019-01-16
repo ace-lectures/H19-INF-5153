@@ -2,7 +2,7 @@
 
   * Auteurs : Philippe Collet (UCA), Benjamin Benni (UCA) & Sébastien Mosser (UQAM)
   * Relecteur : Guy Tremblay (UQAM), Naouel Moha (UQAM)
-  * Version : UQAM-H19
+  * Version : UQAM-H19-1.0
   * Durée : 3,5 semaines
  
  
@@ -32,10 +32,10 @@
  
   * Rapport : 40 points 
     * Diagramme de cas d'utilisation : 		5 points
-    * Diagramme de classe : 					10 points
+    * Diagramme de classes : 					10 points
     * Diagramme(s) de séquences : 				10 points
     * Justification des choix de conception : 	15 points
-    * Identifications des limites de la conception : 10 points
+    * Identification des limites de la conception : 10 points
   * Qualité du code objet : 30 points
     * Respect des principes (i) _responsabilité unique_ et (ii) _ouvert/fermé_ : 15 points
     * Lisibilité du code Java : 5 points
@@ -83,14 +83,14 @@ Après plusieurs réunions avec des représentants des bibliothèques universita
  
 ### Travail à réaliser 
 
-  * Faire évoluer vos modèles pourconcevoir ces nouvelles fonctionalités;
-  * Implémentez le code objet associé, ainsi que les scénarios d'acceptation démontrant ces fonctionnalités.
+  * Faire évoluer vos modèles pour concevoir ces nouvelles fonctionnalités;
+  * Implémenter le code objet associé, ainsi que les scénarios d'acceptation démontrant ces fonctionnalités.
 
 ## À Rendre
 
   * Avant la date de clôture, vous poserez sur le _commit_ correspondant à votre rendu le tag `final` (n'oubliez pas de pousser ce tag sur le dépôt, par exemple avec la commande `git push --tags`);
   * A la racine de votre dépôt, vous devez livrer un rapport au format PDF, nommé `Rapport_XX_YY_ZZ_TT.pdf`, où `XX`, `YY`, `ZZ` et `TT` correspondent aux codes permanents des étudiants ayant participé au rendu.
-  * Le code rendu doit compiler et les tests d'acceptation s'exécuter avec la commande `mvn clean package` lancée à la racine de votre dépôt. Si vous ne changez pas la structure donnée, c'est déjà la cas.
+  * Le code rendu doit compiler et les tests d'acceptation s'exécuter avec la commande `mvn clean package` lancée à la racine de votre dépôt. Si vous ne changez pas la structure donnée, c'est déjà le cas.
 
 Votre rapport (format Letter, 10 pages max, police type Times en 11 pts) doit contenir les informations suivantes : 
 
@@ -115,7 +115,7 @@ Pour les équipes intéressées à aller plus loin, vous pouvez considérer les 
 
 ### Travail à réaliser 
 
-  * Identifiez dans ces nouvelles spécifications ce qui fait partie de votre système et ce qui n'en fait pas partie;
+  * Identifier dans ces nouvelles spécifications ce qui fait partie de votre système et ce qui n'en fait pas partie;
   * Faire évoluer vos modèles et votre code pour permettre de supporter ces nouvelles fonctionnalités
 
 
