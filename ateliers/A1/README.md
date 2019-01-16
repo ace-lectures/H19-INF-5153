@@ -8,12 +8,12 @@
 
   1. Se rappeler les bases du développement orienté-objet en Java; 
   2. Prendre en main l'environnement technologique du cours INF-5153
-    * Gestion de version avec Git et _Github Classroom_;
-    * Maven pour la construction et l'exécution d'un projet;
-    * Tests unitaires en JUnit.
+      * Gestion de version avec Git et _Github Classroom_;
+      * Maven pour la construction et l'exécution d'un projet;
+      * Tests unitaires en JUnit.
   3. (Re-)découvrir les principes des tests d'acceptations et d'intégration continue
-    * Tests d'acceptations avec Cucumber;
-    * Intégration Continue avec Travis-CI. 
+      * Tests d'acceptations avec Cucumber;
+      * Intégration Continue avec Travis-CI. 
   4. Modéliser une application avec Visual Paradigm.
 
 ## Étape 0 : Installation des outils (à faire avant l'atelier)
