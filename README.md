@@ -47,7 +47,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #Semaine | Cours (Mercredi, 3h) | Ateliers (Jeudi, 2h) |
 | :---:   | :---   | :---    |
 | #2      |  [Introduction: Socle Technique & Principes de Conception Objet](./cours/02) |   |
-| #3      |  Rappels sur UML, Propriétés architecturales | (A1) Boite à outils  |
+| #3      |  [Rappels sur UML, Propriétés architecturales](./cours/03) | (A1) Boite à outils  |
 | #4      |  Responsabilisation : GRASP & SOLID | (A1) _suite_ |
 | #5      |  UML pour la conception détaillée | (A2) Conception & Implémentation |
 | #6      |  (A2) _suite_ | (A2) _suite_   | 
@@ -63,6 +63,10 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #16     |  _(culture)_ Architectures Hexagonales |  Finalisation TP  |
 | **#17** |  **Examen final** |  |
 
+Materiel supplémentaire : 
+
+  * _Cheatsheet_ sur la syntaxe UML : [cheatsheet.pdf](./docs/cheatsheet.pdf)
+      * autorisée au examens en plus d'une feuille de note manuscrites 
 
 ## Travaux
 
