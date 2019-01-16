@@ -21,8 +21,8 @@
 Pour suivre le cours INF-5153, vous devez avoir à disposition : 
 
   * un compte sur la plateforme _Github_, qui vous permettra de rendre les travaux via son outil _GitHub Classroom_;
-  * Java (version 11, _long term support_)
-  * un gestionnaire de version Git, dans une version récente ;
+  * Java (version 11, _long term support_, p. ex. [Oracle JdK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html))
+  * un gestionnaire de version Git, dans une [version récente](https://git-scm.com/downloads) ;
   * une installation fonctionnelle de Maven, en version 3 ;
   * Un environnement de développement intégré (IDE) raisonnable (p. ex. IntelliJ ou Eclipse)
   * une installation de Visual Paradigm Community
