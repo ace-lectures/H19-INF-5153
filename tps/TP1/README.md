@@ -14,7 +14,7 @@
     * Le premier étudiant crée l'équipe sur _Classroom_, puis les autres rejoignent cette équipe. 
     * Ce sont les informations présentes dans _Classroom_ qui feront foi pour l'évaluation, donc faites attention.
   * Récupérez le travail sur Github Classroom:
-    * TODO []() 
+    * [TP1 : La bibliothèque universitaire](https://classroom.github.com/g/AG2EDX3g) 
   * Par modèle, on entend dans ce travail les trois types de modèles UML suivants : diagrammes de cas d'utilisation, de classes et de séquence. 
   * Il n'est pas attendu d'interface personne-machine (textuelle ou graphique). Les seules exécutions de votre code seront les tests unitaires et les scénarios d'acceptation.
   * Il n'est pas attendu de base de données, ou quoi que ce soit de ce genre. Si vous pensez ce genre de système nécéssaire, _bouchonnez_ le avec des objets Java.
