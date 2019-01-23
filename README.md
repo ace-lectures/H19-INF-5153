@@ -50,8 +50,8 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | :---:   | :---   | :---    |
 | #2      |  [Introduction: Socle Technique & Principes de Conception Objet](./cours/02) |   |
 | #3      |  [Rappels sur UML, Pictionary](./cours/03) | (A1) Boite à outils  |
-| #4      |  Architecture & Responsabilisation (GRASP & SOLID)| (A1) _suite_ |
-| #5      |  UML pour la conception détaillée | (A2) Conception & Implémentation |
+| #4      |  [Responsabilisation (GRASP & SOLID)](./cours/04)| (A1) _suite_ |
+| #5      |  Architecture & Conception détaillée | (A2) Conception & Implémentation |
 | #6      |  (A2) _suite_ | (A2) _suite_   | 
 | #7      |  Patrons de conceptions GoF (_initié_) | Retours sur le TP1, Révisions  |
 | **#8**  | **Examen intra**   |   |
