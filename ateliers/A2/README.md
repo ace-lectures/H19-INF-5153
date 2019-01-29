@@ -55,16 +55,16 @@ Dans le texte ci-dessous, les mains sont classées de la plus faible à la plus 
 Le code que vous avez récupéré à l'étape précédente contient les classes suivantes : 
 
   * `Card` représente une carte du jeu, en associant une valeurs (prise dans l'énumération `Values`) et une couleur (prise dans l'énumération `Suits`). 
-    * Elle définit une méthode `compareTo` qui permet de définir une relation d'ordre sur les cartes pour les comparer.
-  *  `Hand` représente la main d'un joueur, composée d'un ensemble de 5 cartes. 
-    *  Elle définit une méthode `isValid()` permettant de s'assurer que la main contient bien 5 cartes.
-  *  `HandReader` est une _fabrique_ de main de poker, qui, sur la base d'une chaine de caractères conforme à la spécification, produit l'instance de `Hand` correspondante.
+      * Elle définit une méthode `compareTo` qui permet de définir une relation d'ordre sur les cartes pour les comparer.
+  *  `Hand` représente la main d'un joueur, composée d'un ensemble de 5 cartes.
+      *  Elle définit une méthode `isValid()` permettant de s'assurer que la main contient bien 5 cartes.
+  *  `HandBuilder` est une _fabrique_ de main de poker, qui, sur la base d'une chaine de caractères conforme à la spécification, produit l'instance de `Hand` correspondante.
   *  `PokerController` définit la partie en interaction avec le croupier, en définissant la méthode `main` du système.
 
 ### Travail à faire 
 
 
-  * A l'aide de votre environnement de développement (ou de l'outil de votre choix, ceci incluant papier et crayon),
+  * A l'aide de votre environnement de modélisatio préféré (ceci incluant papier et crayon),
     1. Dessinez le diagramme de classe de l'application actuelle, en omettant ce qui relève du détail d'implémentation; 
     2. Dessinez le diagramme de séquence principal de l'application, en omettant ce qui relève du détail d'implémentation.
 
