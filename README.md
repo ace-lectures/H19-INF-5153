@@ -51,7 +51,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #2      |  [Introduction: Socle Technique & Principes de Conception Objet](./cours/02) |   |
 | #3      |  [Rappels sur UML, Pictionary](./cours/03) | (A1) Boite à outils  |
 | #4      |  [Responsabilisation (GRASP & SOLID)](./cours/04)| (A1) _suite_ |
-| #5      |  Architecture & Conception détaillée | (A2) Conception & Implémentation |
+| #5      |  [Architecture & Conception détaillée](./cours/05) | (A2) Conception & Implémentation |
 | #6      |  (A2) _suite_ | (A2) _suite_   | 
 | #7      |  Patrons de conceptions GoF (_initié_) | Retours sur le TP1, Révisions  |
 | **#8**  | **Examen intra**   |   |
@@ -74,13 +74,13 @@ Materiel supplémentaire :
 
 ### Ateliers (encadrés)
 
-  * A1 : Micro-brasserie interactive
+  * A1 : [Micro-brasserie interactive](./ateliers/A1/README.md)
     * Objectifs : Maitriser l'outillage de base (GitHub classroom, travis-CI, maven, git, junit, visual paradigm & cucumber).
-  * A2 : Le jeu de Poker
+  * A2 : [Le jeu de Poker](./ateliers/A2/README.md)
     * Objectifs : Concevoir et développer une application orientée objet.
   * A3 : Simulateur de _Bestioles_
     * Objectifs : Intégrer des patrons de conception dans une application orientée objet.
-  * A4 : Détéction et réparation d'anti-patrons
+  * A4 : Détection et réparation d'anti-patrons
     * Objectif : Initiation à la rétro-ingénierie des applications objets.
 
 ### Travaux pratiques (à rendre)
@@ -88,7 +88,7 @@ Materiel supplémentaire :
 Les travaux pratiques sont a faire en équipe de 3 à 4 étudiants. Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
 travaux pratiques avant les livraisons finales. 
 
-  * TP1 : Bibliothèque Universitaire 
+  * TP1 : [La Bibliothèque Universitaire](./tps/TP1/README.md)
   * TP2 : La Fabrique de Biscuits 
     * Version intermédiaire : _Produit Minimal & Viable_ 
     * Version finale : _Produit Complet_  

@@ -41,8 +41,8 @@ Dans le texte ci-dessous, les mains sont classées de la plus faible à la plus 
 
 ## Étape 1 : Récupérer le code sur Classroom
 
-  * Rendez vous à l'adresse suivante pour récupérer le code de démarrage:
-      * [TODO]() 
+  * Acceptez le travail sur githuib classroom pour pour récupérer le code de démarrage
+      * [Atelier A2 : Le jeu de Poker](https://classroom.github.com/a/OLiNg2Jw) 
   * Assurez vous que le code compile dans votre environnement en utilisant la commande :
     * `~/tp2 mosser$ mvn clean package`
   * Assurez vous que le projet s'exécute dans un terminal : 
@@ -58,7 +58,7 @@ Le code que vous avez récupéré à l'étape précédente contient les classes 
     * Elle définit une méthode `compareTo` qui permet de définir une relation d'ordre sur les cartes pour les comparer.
   *  `Hand` représente la main d'un joueur, composée d'un ensemble de 5 cartes. 
     *  Elle définit une méthode `isValid()` permettant de s'assurer que la main contient bien 5 cartes.
-  *  `HandReader` est une _fabrique_ de main de poker, qui, sur la base d'une chaine de caractères conforme à la spécification, produit l'instance de `Hand` correspondante.
+  *  `HandBuilder` est une _fabrique_ de main de poker, qui, sur la base d'une chaine de caractères conforme à la spécification, produit l'instance de `Hand` correspondante.
   *  `PokerController` définit la partie en interaction avec le croupier, en définissant la méthode `main` du système.
 
 ### Travail à faire 
@@ -69,17 +69,16 @@ Le code que vous avez récupéré à l'étape précédente contient les classes 
     2. Dessinez le diagramme de séquence principal de l'application, en omettant ce qui relève du détail d'implémentation.
 
   * Discussion sur la conception actuelle : 
-    1. Construction de la main avec un Builder / dans le constructeur
-    2. Clone du set de cartes dans la Main pour accéder au contenu
-    3. Tolérance aux erreurs dans la construction des mains
-    4. Composition / association entre `Hand` et `Card`
-    5. Multiplicité de `contents` dans `Hand`
-    6. PokerController en tant que Main
+    1. Pourquoi utiliser une classe `HandBuilder` et pas directement le constructeur de `Hand` pour construire les mains ?
+    2. Pourquoi devoir cloner le contenu d'une main pour accéder à son contenu ?
+    3. La relation entre `Hand` et `Card` est-elle une association ? Une agrégation ? Une composition ? Comment s'en assurer dans le code ?
+    5. Que penser de la cardinalité de `contents` dans la classe `Hand` ?
 
   * Pour l'instant, la méthode `isValid` de la classe `Hand` n'est pas utilisée.
     1. Identifiez les endroits où cette méthode pourrait être appelée pour garantir la validité des mains saisies.
     2. Quel est l'impact de choisir l'un ou l'autre de ces endroits dans le code pour vérifier la validité ? 
 
+  * Au sens de GRASP, arrivez vous à identifier quels patrons de responsabilisation ont été utilisés dans cette base de code ?
 
 ## Étape 3 : Détection des Combinaisons
 
@@ -93,8 +92,9 @@ Le système doit être capable de détecter, pour une main donnée, toutes les c
 
   1. Identifiez les classes (leur structure _ET_ leur comportement) permettant de représenter les bonnes abstractions pour ce problème;
   2. Montrez à l'aide d'une diagramme de séquence comment les combinaisons sont détectées dans une main;
-  2. On doit pouvoir ajouter de nouvelles combinaisons facilement. Comment votre conception permet-elle cela ? 
-  3. Proposez une implémentation en Java de votre travail.
+  3. On doit pouvoir ajouter de nouvelles combinaisons facilement. Comment votre conception permet-elle cela ? 
+  4. Proposez une implémentation en Java de votre travail.
+  5. Quel impact sur le couplage / la cohésion cela a t'il sur le système ?
 
 ## Étape 4 : Détection du Vainqueur
 
@@ -108,6 +108,7 @@ Java propose l'interface `Comparable`, déjà utilisée dans la classe `Card` po
   2. Identifiez les responsabilités nécéssaire à la réalisation de l'arbitrage;
   3. Modifiez le diagramme de séquence global pour intégrer la prise de décision dans le système;
   4. Implémentez cette modification dans votre code Java.
+  5. Quel impact sur le couplage / la cohésion cela a t'il sur le système ?
 
 
 ## Étape 5 : Détection de la triche (Optionnel)
