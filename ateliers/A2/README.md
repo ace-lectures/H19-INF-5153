@@ -64,7 +64,7 @@ Le code que vous avez récupéré à l'étape précédente contient les classes 
 ### Travail à faire 
 
 
-  * A l'aide de votre environnement de développement (ou de l'outil de votre choix, ceci incluant papier et crayon),
+  * A l'aide de votre environnement de modélisatio préféré (ceci incluant papier et crayon),
     1. Dessinez le diagramme de classe de l'application actuelle, en omettant ce qui relève du détail d'implémentation; 
     2. Dessinez le diagramme de séquence principal de l'application, en omettant ce qui relève du détail d'implémentation.
 
