@@ -4,7 +4,8 @@
 
   * Équipe : 
     * Professeur : [Sébastien Mosser](https://mosser.github.io)
-    * Démonstrateur : Charline David 
+    * Démonstratrice : Charline David 
+    * Correcteur: _a définir_
   * Horaire du groupe `030`, session d'hiver 2019:
     * Cours : Mercredi, 18h - 21h, local PK-R605
     * Atelier : Jeudi, 18h - 20h, local PK-S1555
