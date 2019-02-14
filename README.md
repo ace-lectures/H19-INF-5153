@@ -53,7 +53,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #4      |  [Responsabilisation (GRASP & SOLID)](./cours/04)| (A1) _suite_ |
 | #5      |  [Architecture & Conception détaillée](./cours/05) | (A2) Conception & Implémentation |
 | #6      |  (A2) _suite_ | (A2) _suite_   | 
-| #7      |  Patrons de conceptions GoF (_initié_) | Retours sur le TP1, Révisions  |
+| #7      |  :snowman: Fermeture Université :snowman: | [Patrons de conceptions & Révisions](./cours/06)  |
 | **#8**  | **Examen intra**   |   |
 | _#9_    | _Semaine de relâche_   |   |
 | #10     |  Patrons de conceptions GoF (_padawan_) | (A3) Patrons & Mise en oeuvre  |
