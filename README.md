@@ -27,10 +27,10 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 | Date(s)  | Travail à rendre | Objectif | Poids |
 | :---:   | :---   | :---    | :---: |
 | 16.01 ➝ 10.02 | TP1 |  Conception guidée, en lien avec l'implémentation | 10% |
-| 20.02 | :notebook: **Examen intra** | Principes fondamentaux de la conception | 20% |
+| 20.02 | :notebook: **Examen intra** (PK-1350) | Principes fondamentaux de la conception | 20% |
 | 21.02 ➝ 17.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
 | 18.03 ➝ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
-| 24.04 | :notebook: **Examen final** | Principes fondamentaux & avancés de la conception | 40% |
+| 24.04 | :notebook: **Examen final** (SH-R810) | Principes fondamentaux & avancés de la conception | 40% |
 
 Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Classroom. Les TPs sont a réaliser par équipe. Les dépôts de code seront clonés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué.  La couverture _fonctionelle_ de vos TPs est automatiquement vérifiée par la bonne exécution de scénarios _Cucumber_.
 
@@ -48,13 +48,13 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 
 | #Semaine | Cours (Mercredi, 3h) | Ateliers (Jeudi, 2h) |
 | :---:   | :---   | :---    |
-| #2      |  [Introduction: Socle Technique & Principes de Conception Objet](./cours/02) |   |
+| #2      |  [Introduction: Socle Technique & Principes de COO](./cours/02) |   |
 | #3      |  [Rappels sur UML, Pictionary](./cours/03) | (A1) Boite à outils  |
 | #4      |  [Responsabilisation (GRASP & SOLID)](./cours/04)| (A1) _suite_ |
 | #5      |  [Architecture & Conception détaillée](./cours/05) | (A2) Conception & Implémentation |
 | #6      |  (A2) _suite_ | (A2) _suite_   | 
-| #7      |  :snowman: Fermeture Université :snowman: | [Patrons de conceptions & Révisions](./cours/06)  |
-| **#8**  | **Examen intra**   |   |
+| #7      |  :snowman: Tempête de Neige :snowman: | [Patrons de conceptions & Révisions](./cours/06) (PK-1620)  |
+| **#8**  | **Examen intra** (PK-1350)  |   |
 | _#9_    | _Semaine de relâche_   |   |
 | #10     |  Patrons de conceptions GoF (_padawan_) | (A3) Patrons & Mise en oeuvre  |
 | #11     |  Patrons de conceptions GoF (_chevalier_) | (A3) _suite_ |
@@ -63,7 +63,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #14     |  Maintenance et réusinage (_refactoring_) | (A4) _suite_  |
 | #15     |  Principes du _Domain-Driven Design_  |  Finalisation TP2  | 
 | #16     |  _(culture)_ Architectures Hexagonales |  Finalisation TP2  |
-| **#17** |  **Examen final** |  |
+| **#17** |  **Examen final** (SH-R810) |  |
 
 Materiel supplémentaire : 
 
