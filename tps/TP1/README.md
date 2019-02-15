@@ -30,18 +30,18 @@
 
 ### Évaluation (/100)
  
-  * Rapport : 40 points 
+  * Rapport : ~40~ 45 points 
     * Diagramme de cas d'utilisation : 		5 points
     * Diagramme de classes : 					10 points
     * Diagramme(s) de séquences : 				10 points
-    * Justification des choix de conception : 	15 points
+    * Justification des choix de conception : 	10 points
     * Identification des limites de la conception : 10 points
   * Qualité du code objet : 30 points
     * Respect des principes (i) _responsabilité unique_ et (ii) _ouvert/fermé_ : 15 points
     * Lisibilité du code Java : 5 points
     * Cohérence entre conception et code développé : 10 points
-  * Scénarios d'acceptation : 30 points
-    * Couverture fonctionnelle des spécifications : 20 points
+  * Scénarios d'acceptation : ~30~ 25 points
+    * Couverture fonctionnelle des spécifications : 15 points
     * Lisibilité des scénarios et des codes des étapes : 10 points 
 
 Le rapport est rédigé en français. Un rapport de mauvaise qualité (sur la forme, l'orthographe, ou la grammaire, ...) se verra attribué un malus qui pourra aller jusqu'à 10% de la note du travail.
