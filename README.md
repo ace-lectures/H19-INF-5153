@@ -60,10 +60,10 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #10     |  Patrons de conceptions GoF (_padawan_) | (A3) Patrons & Mise en oeuvre  |
 | #11     |  Patrons de conceptions GoF (_chevalier_) | (A3) _suite_ |
 | #12     |  Patrons de conceptions GoF (_maitre_) |  (A3) _suite_  |
-| #13     |  Anti-patrons | (A4) Détection d' (anti-) patrons  |
-| #14     |  Maintenance et réusinage (_refactoring_) | (A4) _suite_  |
-| #15     |  Principes du _Domain-Driven Design_  |  Finalisation TP2  | 
-| #16     |  _(culture)_ Architectures Hexagonales |  Finalisation TP2  |
+| #13     |  Anti-patrons |  SAV - TP2  |
+| #14     |  Maintenance et réusinage (_refactoring_) |  SAV - TP2  |
+| #15     |  Principes du _Domain-Driven Design_  |  (A4) Détection d' (anti-) patrons   | 
+| #16     |  _(culture)_ Architectures Hexagonales |  (A4) _suite_   |
 | **#17** |  **Examen final** (SH-R810) |  |
 
 Materiel supplémentaire : 
