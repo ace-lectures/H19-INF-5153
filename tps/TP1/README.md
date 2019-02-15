@@ -30,7 +30,7 @@
 
 ### Évaluation (/100)
  
-  * Rapport : ~40~ 45 points 
+  * Rapport : 45 points 
     * Diagramme de cas d'utilisation : 		5 points
     * Diagramme de classes : 					10 points
     * Diagramme(s) de séquences : 				10 points
@@ -40,7 +40,7 @@
     * Respect des principes (i) _responsabilité unique_ et (ii) _ouvert/fermé_ : 15 points
     * Lisibilité du code Java : 5 points
     * Cohérence entre conception et code développé : 10 points
-  * Scénarios d'acceptation : ~30~ 25 points
+  * Scénarios d'acceptation : 25 points
     * Couverture fonctionnelle des spécifications : 15 points
     * Lisibilité des scénarios et des codes des étapes : 10 points 
 
