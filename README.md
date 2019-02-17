@@ -38,7 +38,7 @@ Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Cla
 Les dates de remise s'entendent en Heure de l'Est, à 23:50 le jour de la date de remise.
 
 
-L'examen _intra_ portera sur les séances des semaines #2 à #7. L'examen _final_ portera sur les séances des semaines #2 à #15. La séance de la semaine #16 est une ouverture pour votre culture générale. Pour les examens, vous avez le droit à une feuille de notes manuscrites (format _Letter_, recto-verso), et à la _cheatsheet_ UML donnée sur cette page.
+L'examen _intra_ portera sur les séances des semaines #2 à #7. L'examen _final_ portera sur les séances des semaines #2 à #15. La séance de la semaine #16 est une ouverture pour votre culture générale. Pour les examens, vous avez le droit à une feuille de notes manuscrites (format _Letter_, recto-verso, écrite à la main et non photocopiée), et à la _cheatsheet_ UML donnée sur cette page.
 
 ## Agenda des séances
 
