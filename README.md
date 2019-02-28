@@ -28,9 +28,9 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 | Date(s)  | Travail à rendre | Objectif | Poids |
 | :---:   | :---   | :---    | :---: |
 | 16.01 ➝ 10.02 | TP1 |  Conception guidée, en lien avec l'implémentation | 10% |
-| 20.02 | :notebook: **Examen intra** (PK-1350) | Principes fondamentaux de la conception | 20% |
-| 21.02 ➝ 17.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
-| 18.03 ➝ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
+| 20.02 | :notebook: **[Examen intra](./cours/07/h19_intra.pdf)** (PK-1350) | Principes fondamentaux de la conception | 20% |
+| 28.02 ➝ 24.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
+| 25.03 ➝ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
 | 24.04 | :notebook: **Examen final** (SH-R810) | Principes fondamentaux & avancés de la conception | 40% |
 
 Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Classroom. Les TPs sont a réaliser par équipe. Les dépôts de code seront clonés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué.  La couverture _fonctionelle_ de vos TPs est automatiquement vérifiée par la bonne exécution de scénarios _Cucumber_.
@@ -55,15 +55,15 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #5      |  [Architecture & Conception détaillée](./cours/05) | (A2) Conception & Implémentation |
 | #6      |  (A2) _suite_ | (A2) _suite_   | 
 | #7      |  :snowman: Tempête de Neige :snowman: | [Patrons de conceptions & Révisions](./cours/06) (PK-1620)  |
-| **#8**  | **Examen intra** (PK-1350)  |   |
+| **#8**  | **[Examen intra](./cours/07/h19_intra.pdf)** (PK-1350)  |   |
 | _#9_    | _Semaine de relâche_   |   |
-| #10     |  Patrons de conceptions GoF (_padawan_) | (A3) Patrons & Mise en oeuvre  |
-| #11     |  Patrons de conceptions GoF (_chevalier_) | (A3) _suite_ |
-| #12     |  Patrons de conceptions GoF (_maitre_) |  (A3) _suite_  |
-| #13     |  Anti-patrons |  SAV - TP2  |
-| #14     |  Maintenance et réusinage (_refactoring_) |  SAV - TP2  |
-| #15     |  Principes du _Domain-Driven Design_  |  (A4) Détection d' (anti-) patrons   | 
-| #16     |  _(culture)_ Architectures Hexagonales |  (A4) _suite_   |
+| #10     |  Patrons de conceptions GoF (_padawan_) | (TP2) |
+| #11     |  Patrons de conceptions GoF (_chevalier_) | (TP2)  |
+| #12     |  Patrons de conceptions GoF (_maitre_) |  (TP2)   |
+| #13     |  Anti-patrons |  (A3)  |
+| #14     |  Maintenance et ré-usinage (_refactoring_) |  (A3)  |
+| #15     |  Principes du _Domain-Driven Design_  |  (TP2)   | 
+| #16     |  _(culture)_ Architectures Hexagonales | (TP2)   |
 | **#17** |  **Examen final** (SH-R810) |  |
 
 Materiel supplémentaire : 
@@ -79,9 +79,7 @@ Materiel supplémentaire :
     * Objectifs : Maitriser l'outillage de base (GitHub classroom, travis-CI, maven, git, junit, visual paradigm & cucumber).
   * A2 : [Le jeu de Poker](./ateliers/A2/README.md)
     * Objectifs : Concevoir et développer une application orientée objet.
-  * A3 : Simulateur de _Bestioles_
-    * Objectifs : Intégrer des patrons de conception dans une application orientée objet.
-  * A4 : Détection et réparation d'anti-patrons
+  * A3 : Détection et réparation d'anti-patrons
     * Objectif : Initiation à la rétro-ingénierie des applications objets.
 
 ### Travaux pratiques (à rendre)
@@ -90,9 +88,9 @@ Les travaux pratiques sont a faire en équipe de 3 à 4 étudiants. Vous êtes f
 travaux pratiques avant les livraisons finales. 
 
   * TP1 : [La Bibliothèque Universitaire](./tps/TP1/README.md)
-  * TP2 : La Fabrique de Biscuits 
-    * Version intermédiaire : _Produit Minimal & Viable_ 
-    * Version finale : _Produit Complet_  
+  * TP2 : [La Fabrique de Biscuits ](/tps/TP2/README.md)
+    * Version intermédiaire (24.03) : _Produit Minimal & Viable_ 
+    * Version finale (28.04) : _Produit Complet_  
 
 _Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
 Travaux Pratiques à rendre **si vous êtes en situation d'emploi et ne pouvez pas venir sur le créneau sans rendez-vous précédant le cours**._
