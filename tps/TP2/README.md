@@ -35,7 +35,7 @@ Le travail a réaliser est découpé en deux itérations :
 
   - _Produit Minimal et Viable_
     - [Description du travail à réaliser](./1_MVP.md)
-    - Date de remise : 17.03.2019, 23h50.
+    - Date de remise : 24.03.2019, 23h50.
   - _Produit Final_
     - _description affichée le 18 mars 2019_
     - Date de remise : 28.04.2019, 23h50.
