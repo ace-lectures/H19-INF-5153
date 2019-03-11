@@ -57,7 +57,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #7      |  :snowman: Tempête de Neige :snowman: | [Patrons de conceptions & Révisions](./cours/06) (PK-1620)  |
 | **#8**  | **[Examen intra](./cours/07/h19_intra.pdf)** (PK-1350)  |   |
 | _#9_    | _Semaine de relâche_   |   |
-| #10     |  Patrons de conceptions GoF (_padawan_) | (TP2) |
+| #10     |  [Patrons de conceptions GoF (_padawan_)](./cours/09) | (TP2) |
 | #11     |  Patrons de conceptions GoF (_chevalier_) | (TP2)  |
 | #12     |  Patrons de conceptions GoF (_maitre_) |  (TP2)   |
 | #13     |  Anti-patrons |  (A3)  |
