@@ -95,6 +95,16 @@ travaux pratiques avant les livraisons finales.
 _Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
 Travaux Pratiques à rendre **si vous êtes en situation d'emploi et ne pouvez pas venir sur le créneau sans rendez-vous précédant le cours**._
 
+## Barème
+
+Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULTATS. La note de passage est de 50%, et il n'y a pas de double seuil TP/examens.
+
+<center>
+ 
+![echelle de notes](./docs/echelle.png)
+ 
+</center> 
+
 ## Bibliographie
 
   * _UML@Classroom_, Springer Verlag, 2015.
