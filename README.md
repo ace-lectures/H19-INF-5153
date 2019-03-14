@@ -2,25 +2,25 @@
 
 ## Informations Générales
 
-  * Équipe : 
+  * Équipe :
     * Professeur : [Sébastien Mosser](https://mosser.github.io)
-    * Démonstratrice : Charline David 
+    * Démonstratrice : Charline David
     * Correcteur: _a définir_
   * Horaire du groupe `030`, session d'hiver 2019:
     * Cours : Mercredi, 18h - 21h, local PK-R605
     * Atelier : Jeudi, 18h - 20h, local PK-S1555
-  * Communication : 
+  * Communication :
     * Disponibilité sans rendez-vous : Mercredi, 15h45 - 17h45, local PK-4820
-    * Slack : [https://inf5153-h19.slack.com/signup](https://inf5153-h19.slack.com/signup) 
+    * Slack : [https://inf5153-h19.slack.com/signup](https://inf5153-h19.slack.com/signup)
       * (**politique zéro courriel stricte**)
 
-### Description du cours 
+### Description du cours
 
-_Sensibiliser l'étudiant aux difficultés de la conception et lui permettre d'élaborer des solutions réutilisables, maintenables et extensibles. Problématique du processus de conception. Critères et architecture. Conception comme activité créatrice. Outils d'aide à la conception. Intégration et essais système. 
+_Sensibiliser l'étudiant aux difficultés de la conception et lui permettre d'élaborer des solutions réutilisables, maintenables et extensibles. Problématique du processus de conception. Critères et architecture. Conception comme activité créatrice. Outils d'aide à la conception. Intégration et essais système.
 Conception orientée objet. Cadres d'application et patrons de conception. Documentation de conception. Rétro ingénierie._
 
   * Préalables académiques
-    * [INF-5151](https://etudier.uqam.ca/cours?sigle=INF5151), Génie logiciel: analyse et modélisation ; 
+    * [INF-5151](https://etudier.uqam.ca/cours?sigle=INF5151), Génie logiciel: analyse et modélisation ;
     * [INF-3135](https://etudier.uqam.ca/cours?sigle=INF3135), Construction et maintenance de logiciels.
 
 ### Évaluation & Planning de rendus
@@ -53,23 +53,23 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #3      |  [Rappels sur UML, Pictionary](./cours/03) | (A1) Boite à outils  |
 | #4      |  [Responsabilisation (GRASP & SOLID)](./cours/04)| (A1) _suite_ |
 | #5      |  [Architecture & Conception détaillée](./cours/05) | (A2) Conception & Implémentation |
-| #6      |  (A2) _suite_ | (A2) _suite_   | 
+| #6      |  (A2) _suite_ | (A2) _suite_   |
 | #7      |  :snowman: Tempête de Neige :snowman: | [Patrons de conceptions & Révisions](./cours/06) (PK-1620)  |
 | **#8**  | **[Examen intra](./cours/07/h19_intra.pdf)** (PK-1350)  |   |
 | _#9_    | _Semaine de relâche_   |   |
 | #10     |  [Correction Intra & Tests d'acceptation](./cours/09) | (TP2) |
-| #11     |  Patrons de conceptions GoF (_padawan_) | (TP2)  |
+| #11     |  [Patrons de conceptions GoF (_padawan_)](./cours/10) | (TP2)  |
 | #12     |  Patrons de conceptions GoF (_chevalier_) |  (TP2)   |
 | #13     |  Anti-patrons |  (A3)  |
 | #14     |  Maintenance et ré-usinage (_refactoring_) |  (A3)  |
-| #15     |  Principes du _Domain-Driven Design_  |  (TP2)   | 
+| #15     |  Principes du _Domain-Driven Design_  |  (TP2)   |
 | #16     |  _(culture)_ Architectures Hexagonales | (TP2)   |
 | **#17** |  **Examen final** (SH-R810) |  |
 
-Materiel supplémentaire : 
+Materiel supplémentaire :
 
   * _Cheatsheet_ sur la syntaxe UML : [cheatsheet.pdf](./docs/cheatsheet.pdf)
-      * autorisée au examens en plus d'une feuille de note manuscrites 
+      * autorisée au examens en plus d'une feuille de note manuscrites
 
 ## Travaux
 
@@ -85,14 +85,14 @@ Materiel supplémentaire :
 ### Travaux pratiques (à rendre)
 
 Les travaux pratiques sont a faire en équipe de 3 à 4 étudiants. Vous êtes fortement encouragés à utiliser Slack et les disponibilités sans rendez vous pour obtenir des retours sur vos
-travaux pratiques avant les livraisons finales. 
+travaux pratiques avant les livraisons finales.
 
   * TP1 : [La Bibliothèque Universitaire](./tps/TP1/README.md)
   * TP2 : [La Fabrique de Biscuits ](/tps/TP2/README.md)
-    * Version intermédiaire (24.03) : _Produit Minimal & Viable_ 
+    * Version intermédiaire (24.03) : _Produit Minimal & Viable_
     * Version finale (28.04) : _Produit Complet_  
 
-_Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des 
+_Il est possible d'obtenir des créneaux de rendez-vous pendant les temps d'atelier avec le professeur pour discuter des
 Travaux Pratiques à rendre **si vous êtes en situation d'emploi et ne pouvez pas venir sur le créneau sans rendez-vous précédant le cours**._
 
 ## Barème
@@ -100,21 +100,20 @@ Travaux Pratiques à rendre **si vous êtes en situation d'emploi et ne pouvez p
 Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULTATS. La note de passage est de 50%, et il n'y a pas de double seuil TP/examens.
 
 <center>
- 
+
 ![echelle de notes](./docs/echelle.png)
- 
-</center> 
+
+</center>
 
 ## Bibliographie
 
   * _UML@Classroom_, Springer Verlag, 2015.
-    * Martina Seidl, Marion Scholz, Christian Huemer & Gerti Kappel. 
+    * Martina Seidl, Marion Scholz, Christian Huemer & Gerti Kappel.
   * _Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives_, Addison Wesley, 2011.
-    * Nick Rozanski & Eoin (_pronounced “Owen”_) Woods. 
+    * Nick Rozanski & Eoin (_pronounced “Owen”_) Woods.
   * _Implementing Domain-Driven Design_, Addison-Wesley Professional, 2013.
-    * Vaughn Vernon 
+    * Vaughn Vernon
   * _Design Patterns: Elements of Reusable Object-Oriented Software_, Addison Wesley, 1994.
     * Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides.
   * _Refactoring: Improving the Design of Existing Code_, Addison Wesley, 2018 (2nd edition)
     * Martin Fowler.  
-
