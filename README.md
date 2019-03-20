@@ -59,7 +59,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | _#9_    | _Semaine de relâche_   |   |
 | #10     |  [Correction Intra & Tests d'acceptation](./cours/09) | (TP2) |
 | #11     |  [Patrons de conceptions GoF (_padawan_)](./cours/10) | (TP2)  |
-| #12     |  Patrons de conceptions GoF (_chevalier_) |  (TP2)   |
+| #12     |  [Patrons de conceptions GoF (_chevalier_)](./cours/11) |  (TP2)   |
 | #13     |  Anti-patrons |  (A3)  |
 | #14     |  Maintenance et ré-usinage (_refactoring_) |  (A3)  |
 | #15     |  Principes du _Domain-Driven Design_  |  (TP2)   |
