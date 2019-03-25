@@ -37,7 +37,7 @@ Le travail a réaliser est découpé en deux itérations :
     - [Description du travail à réaliser](./1_MVP.md)
     - Date de remise : 24.03.2019, 23h50.
   - _Produit Final_
-    - _description affichée le 18 mars 2019_
+    - [Description des extentions](./2_complet.md)
     - Date de remise : 28.04.2019, 23h50.
 
 Le travail s'effectue par groupe de 2 à 4 étudiants (au vu de la quantité de travail demandé, 3 est une bonne taille), qui peuvent différer des groupes du TP1. Aucun travail individuel ou à plus de 4 étudiant ne sera accepté.
