@@ -83,7 +83,7 @@ Materiel supplémentaire :
     * Objectifs : Maitriser l'outillage de base (GitHub classroom, travis-CI, maven, git, junit, visual paradigm & cucumber).
   * A2 : [Le jeu de Poker](./ateliers/A2/README.md)
     * Objectifs : Concevoir et développer une application orientée objet.
-  * A3 : Détection et réparation d'anti-patrons
+  * A3 : [Analyse qualité](./ateliers/A3/README.md)
     * Objectif : Initiation à la rétro-ingénierie des applications objets.
 
 ### Travaux pratiques (à rendre)
@@ -103,11 +103,11 @@ Travaux Pratiques à rendre **si vous êtes en situation d'emploi et ne pouvez p
 
 Le cours utilise la grille d'évaluation standard de l'UQAM définie dans RESULTATS. La note de passage est de 50%, et il n'y a pas de double seuil TP/examens.
 
-<center>
+<div align="center">
 
 ![echelle de notes](./docs/echelle.png)
 
-</center>
+</div>
 
 ## Bibliographie
 
