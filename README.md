@@ -57,11 +57,11 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #7      |  :snowman: Tempête de Neige :snowman: | [Patrons de conceptions & Révisions](./cours/06) (PK-1620)  |
 | **#8**  | **[Examen intra](./cours/07/h19_intra.pdf)** (PK-1350)  |   |
 | _#9_    | _Semaine de relâche_   |   |
-| #10     |  [Correction Intra & Tests d'acceptation](./cours/09) | (TP2) |
-| #11     |  [Patrons de conceptions GoF (_padawan_)](./cours/10) | (TP2)  |
-| #12     |  [Patrons de conceptions GoF (_chevalier_)](./cours/11) |  (TP2)   |
-| #13     |  Anti-patrons |  (A3)  |
-| #14     |  Maintenance et ré-usinage (_refactoring_) |  (A3)  |
+| #10     |  [Correction Intra & Tests d'acceptation](./cours/08) | (TP2) |
+| #11     |  [Patrons de conceptions GoF (_padawan_)](./cours/09) | (TP2)  |
+| #12     |  [Patrons de conceptions GoF (_chevalier_)](./cours/10) |  (TP2)   |
+| #13     |  [Étude de cas JUnit (live coding)](./cours/11) |  (A3)  |
+| #14     |  Anti-patrons, Maintenance et ré-usinage (_refactoring_) |  (A3)  |
 | #15     |  Principes du _Domain-Driven Design_  |  (TP2)   |
 | #16     |  _(culture)_ Architectures Hexagonales | (TP2)   |
 | **#17** |  **Examen final** (SH-R810) |  |
@@ -70,6 +70,10 @@ Materiel supplémentaire :
 
   * _Cheatsheet_ sur la syntaxe UML : [cheatsheet.pdf](./docs/cheatsheet.pdf)
       * autorisée au examens en plus d'une feuille de note manuscrites
+
+  * Dépôts de code : 
+      * [https://github.com/ace-lectures/pattern-repository](https://github.com/ace-lectures/pattern-repository)
+      * [https://github.com/ace-lectures/inf5153-junit-demo](https://github.com/ace-lectures/inf5153-junit-demo) (Étude de Cas JUnit)
 
 ## Travaux
 
