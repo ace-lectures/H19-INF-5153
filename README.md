@@ -62,8 +62,8 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #12     |  [Patrons de conceptions GoF (_chevalier_)](./cours/10) |  (TP2)   |
 | #13     |  [Étude de cas JUnit (live coding)](./cours/11) |  (A3)  |
 | #14     |  [Métriques, Visualisations & Anti-patrons](./cours/12) |  (A3)  |
-| #15     |  Principes du _Domain-Driven Design_  |  (TP2)   |
-| #16     |  _(culture)_ Architectures Hexagonales | (TP2)   |
+| #15     |  [Ré-usinage & Mauvaises odeurs](./cours/13)  |  (TP2)   |
+| #16     |  _Domain-driven design_, Étude de cas de révision | (TP2)   |
 | **#17** |  **Examen final** (SH-R810) |  |
 
 Materiel supplémentaire :
