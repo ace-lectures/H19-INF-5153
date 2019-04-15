@@ -31,7 +31,7 @@ Conception orientée objet. Cadres d'application et patrons de conception. Docum
 | 20.02 | :notebook: **[Examen intra](./cours/07/h19_intra.pdf)** (PK-1350) | Principes fondamentaux de la conception | 20% |
 | 28.02 ➝ 24.03 | TP2 - PMV | Concevoir et développer un produit minimal & viable  | 10% |
 | 25.03 ➝ 28.04 | TP2 - Complet | Corriger une conception, intégrer des évolutions  | 20% |
-| 24.04 | :notebook: **Examen final** (SH-R810) | Principes fondamentaux & avancés de la conception | 40% |
+| 24.04 | :notebook: **Examen final** (PK-1705) | Principes fondamentaux & avancés de la conception | 40% |
 
 Pour les Travaux Pratiques, le rendu se fait à travers la plateforme GitHub Classroom. Les TPs sont a réaliser par équipe. Les dépôts de code seront clonés automatiquement par un script, et tout travail non rendu via ce biais ou hors délais ne sera pas évalué.  La couverture _fonctionelle_ de vos TPs est automatiquement vérifiée par la bonne exécution de scénarios _Cucumber_.
 
@@ -64,7 +64,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #14     |  [Métriques, Visualisations & Anti-patrons](./cours/12) |  (A3)  |
 | #15     |  [Ré-usinage & Mauvaises odeurs](./cours/13)  |  (TP2)   |
 | #16     |  _Domain-driven design_, Étude de cas de révision | (TP2)   |
-| **#17** |  **Examen final** (SH-R810) |  |
+| **#17** |  **Examen final** (PK-1705) |  |
 
 Materiel supplémentaire :
 
