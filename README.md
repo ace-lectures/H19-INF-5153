@@ -63,7 +63,7 @@ En régime régulier, les cours ont lieu le mercredi et les ateliers le jeudi. L
 | #13     |  [Étude de cas JUnit (live coding)](./cours/11) |  (A3)  |
 | #14     |  [Métriques, Visualisations & Anti-patrons](./cours/12) |  (A3)  |
 | #15     |  [Ré-usinage & Mauvaises odeurs](./cours/13)  |  (TP2)   |
-| #16     |  _Domain-driven design_, Étude de cas de révision | (TP2)   |
+| #16     |  Étude de cas de révision | (TP2)   |
 | **#17** |  **Examen final** (PK-1705) |  |
 
 Materiel supplémentaire :
